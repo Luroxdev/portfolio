@@ -63,7 +63,7 @@ nav a {
 	color: #8b949e;
 }
 
-a:hover {
+nav a:hover {
 	color: #30363d;
 }
 
@@ -833,6 +833,16 @@ nav .iletisim {
 .contact-links .git-link {
 	background-color: #0d1117;
 	color: #e6edf3;
+}
+
+.contact-links .discord-link {
+	background-color: #0d1117;
+	color: #e6edf3;
+}
+
+.icon {
+	margin-right: 10px;
+	font-size: 0.8rem;
 }
 
 footer {
